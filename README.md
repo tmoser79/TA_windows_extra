@@ -1,6 +1,6 @@
 # TA_windows_extra add-on
 
-Additional or updated knowledge objects for Splunk original TA add-on for Windows
+Additional or updated knowledge objects for Splunk original TA for Windows
 
 # Installation
 - Distribute this add-on to Splunk Search Head
